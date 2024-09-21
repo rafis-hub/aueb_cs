@@ -1,0 +1,12 @@
+Arxika exoume kanei include tis aparaithtes vivliothikes gia to programma mas.
+orizoume tis metablhtes pou tha xrhsimopoihsoume  kathws kai mutex lock kai cond gia ta wait kai ta signal twn nhmatwn kathws kai tiw diaforetikes diergasies poy tha ekteloun
+ftiaxnoyme kataskeyasth gia na orisoyme tis metablhtes ths orderinfo 
+sth methodo void *order:
+orizoume thread kai id paraggelias kai kanoyme ta katallhla wait kai lock otan den uparxei diathesimh diergasia kai ektelesh gia ta nhmata kai typwnoyme katallhla mhnymata se aytes tiw periptwseis. me to telos ths diergasias kanoyme ksana diathesima ta nhmata kai anebazoyme oven kai cook dhladh tis diathesimes diergasies.ksekiname to xrono prin apo th diergasia kai ton stamatame me to peras ths kai kratame ayto to xrono. kanoyme th katallhlh metatroph gia na bgei se lepta . exoyme dyo print akoma gia thn arxh tha kathe paraggelias me payles ws diaxwristhko to deytero printf. epeita ginetai exit me termatismo diergasias kai apeleytherwsh porwn mnhmhs.
+main:
+arxika error an den einai katallhla ta arguments poy tha dwsoyme.
+ena arxiko printf gia na doyme oti ksekinaei to programma 
+kanoyme ena pinaka gia tis paraggelies opou o deikths deixnei ton arithmo tis paraggelias kai oi pizzes einai random kathorismenes gia kathe paragelia.
+arxikopoihsh nhmatwn gia ta orders 
+gia kathe paraggelia dhmioyrgia nhmatos kai anamonh gia katallhlo xrono.epeita ksekinane oi diergasies twn nhmatwn
+telos emfanish mesoy kai megistoy xronoy paraggeliwvn kai katastrofh twn nhmatwn
